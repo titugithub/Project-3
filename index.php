@@ -253,7 +253,6 @@
 
                                     <p class="reviews-text w-100">Donec in elementum orci, nec posuere ligula. Quisque vulputate diam et ullamcorper ullamcorper. Pellentesque vestibulum neque at leo fermentum mattis.</p>
 
-                                    <img src="<?php echo get_template_directory_uri()?>/images/reviews/senior-man-wearing-white-face-mask-covid-19-campaign-with-design-space.jpeg" class="img-fluid reviews-image" alt="">
 
                                     <figcaption class="ms-4">
                                         <strong>Ben Walker</strong>
@@ -275,8 +274,6 @@
 
                                     <p class="reviews-text w-100">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec sit amet velit vitae purus aliquam efficitur.</p>
 
-                                    <img src="<?php echo get_template_directory_uri()?>/images/reviews/portrait-british-woman.jpeg" class="img-fluid reviews-image" alt="">
-
                                     <figcaption class="ms-4">
                                         <strong>Laura Zono</strong>
 
@@ -297,7 +294,7 @@
 
                                     <p class="reviews-text w-100">Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas faucibus mollis interdum. Donec ullamcorper nulla non metus auctor fringilla.</p>
 
-                                    <img src="<?php echo get_template_directory_uri()?>/images/reviews/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg" class="img-fluid reviews-image" alt="">
+                                    <img srages/reviews/woman-wearing-mask-face-closeup-covid-19-green-background.jpeg" class="img-fluid reviews-image" alt="">
 
                                     <figcaption class="ms-4">
                                         <strong>Rosey</strong>
